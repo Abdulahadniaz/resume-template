@@ -1,0 +1,97 @@
+{
+  "fullname": "John Doe",
+  "role": "Software Engineer",
+  "socials": [
+    {
+      "title": "linkedin",
+      "url": "https://www.google.com/"
+    },
+    {
+      "title": "twitter",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "biodata": {
+    "email": "https://www.google.com/",
+    "phone": "+1 (512) 698-3649",
+    "profilepic": "someurl",
+    "professionalsummary": {
+      "sections": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      ]
+    },
+    "education": {
+      "institutions": [
+        {
+          "title": "BS CS",
+          "institution": "NUST, Islamabad",
+          "duration": "2015 - 2020",
+          "sections": [""]
+        },
+        {
+          "title": "A-Levels",
+          "institution": "BCS",
+          "duration": "2015 - 2020",
+          "sections": [""]
+        }
+      ]
+    },
+    "skills": [
+      {
+        "section": "",
+        "items": [
+          { "skill": "Ruby", "level": 99 },
+          { "skill": "Python", "level": 99 },
+          { "skill": "Java", "level": 99 },
+          { "skill": "C++", "level": 99 },
+          { "skill": "Javascript", "level": 99 },
+          { "skill": "PHP", "level": 99 },
+          { "skill": "......", "level": 99 }
+        ]
+      }
+    ],
+    "experiences": {
+      "items": [
+        {
+          "title": "loreum ipusm",
+          "organisation": "lereum ipsum",
+          "duration": "2020 - 2021",
+          "url": "some company url",
+          "location": "Pakistan",
+          "details": {
+            "sections": [
+              {
+                "title": "Job1",
+                "section": [
+                  "Wrote a ruby gem _Morsel_ to traverse through active record trees to purge old records. It helped in limiting the production database size and keeping the data clean.",
+                  "Was part of a team which developed the warehouse module in RoR framework from scratch. It now scales to around 10X as compared to the ERP system existed.",
+                  "Designed warehouse stock snapshots and stock ledger framework using Pig scripts to make the supply chain system legally compliant."
+                ]
+              },
+              {
+                "title": "Job2",
+                "section": [
+                  "Wrote a ruby gem _Morsel_ to traverse through active record trees to purge old records. It helped in limiting the production database size and keeping the data clean.",
+                  "Was part of a team which developed the warehouse module in RoR framework from scratch. It now scales to around 10X as compared to the ERP system existed.",
+                  "Designed warehouse stock snapshots and stock ledger framework using Pig scripts to make the supply chain system legally compliant."
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "extras": {
+      "section": [
+        {
+          "title": "Patents",
+          "sections": ["Patent 1", "Patent 1"]
+        },
+        {
+          "title": "Papers",
+          "sections": ["Paper 1", "Paper 2"]
+        }
+      ]
+    }
+  }
+}
