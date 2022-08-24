@@ -14,8 +14,6 @@ export default function Home() {
 
   const { section } = extras;
 
-  console.log(extras);
-
   return (
     <div style={{ padding: 30 }}>
       <div>{fullname}</div>
