@@ -4,11 +4,15 @@
   "socials": [
     {
       "title": "linkedin",
-      "url": "https://www.google.com/"
+      "url": "https://www.linkedin.com/"
     },
     {
       "title": "twitter",
-      "url": "https://www.google.com/"
+      "url": "https://twitter.com/home"
+    },
+    {
+      "title": "twitter",
+      "url": "https://twitter.com/home"
     }
   ],
   "biodata": {
@@ -17,7 +21,7 @@
     "profilepic": "someurl",
     "professionalsummary": {
       "sections": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
       ]
     },
     "education": {
